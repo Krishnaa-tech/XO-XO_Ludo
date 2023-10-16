@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pygame-sdl2
+Version: 2.1.0+renpy8.1.3
+Home-page: https://github.com/renpy/pygame_sdl2
+Maintainer: Tom Rothamel
+Maintainer-email: tom@rothamel.us
+License-File: COPYING.LGPL21
+License-File: COPYING.ZLIB
