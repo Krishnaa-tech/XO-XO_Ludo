@@ -1,3 +1,14 @@
+[![GitHub license](https://img.shields.io/github/license/Krishnaa-tech/Travel-Tech-Azure)](https://github.com/Krishnaa-tech/Travel-Tech-Azure/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/Krishnaa-tech/Travel-Tech-Azure.svg)](https://GitHub.com/Krishnaa-tech/Travel-Tech-Azure/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/Krishnaa-tech/Travel-Tech-Azure.svg)](https://GitHub.com/Krishnaa-tech/Travel-Tech-Azure/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Krishnaa-tech/Travel-Tech-Azure.svg)](https://GitHub.com/Krishnaa-tech/Travel-Tech-Azure/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub watchers](https://img.shields.io/github/watchers/Krishnaa-tech/Travel-Tech-Azure.svg?style=social&label=Watch)](https://GitHub.com/Krishnaa-tech/Travel-Tech-Azure/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/Krishnaa-tech/Travel-Tech-Azure.svg?style=social&label=Fork)](https://GitHub.com/Krishnaa-tech/Travel-Tech-Azure/network/)
+[![GitHub stars](https://img.shields.io/github/stars/Krishnaa-tech/Travel-Tech-Azure.svg?style=social&label=Star)](https://GitHub.com/Krishnaa-tech/Travel-Tech-Azure/stargazers/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krishnaa-tech/Travel-Tech-Azure/HEAD)
+[![Gitter](https://badges.gitter.im/Krishnaa-tech/Travel-Tech-Azure.svg)](https://gitter.im/Krishnaa-tech/Travel-Tech-Azure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # XO-XO
 
 ## Description: 
@@ -40,5 +51,7 @@ if you don't know what to do check the project board 🎯
 You may contribute to this project by developing additional features.
 
 Pull requests are welcome. For significant changes, please open an issue first to discuss what you wish to change.
-		 
-### Made with lots of ⏱️, 📚 and ☕ by [Krish Goyal](https://github.com/Krishnaa-tech) & [Harshita](https://github.com/harshi1gfiesg)
+
+_**Team Members:**_ 
+&emsp; &emsp; [Krish Goyal](https://github.com/Krishnaa-tech) 
+&emsp; &emsp; [Harshita](https://github.com/harshi1gfiesg)
