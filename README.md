@@ -18,7 +18,7 @@ See [XO-XO](https://wiki2.org/en/Ashta_Chamma_(board_game)) to know more
 
 The game has been build by using **pygame** & **renpy** module in **python3** 🐍 
 
-![preview](/assets/screenshot/preview.gif)
+![preview](/game/assets/screenshot/preview.gif)
 
 ## Game Rules:
 
@@ -41,7 +41,7 @@ In a command prompt/terminal
 <code>python game.py </code>
   
 ## Screenshot:
-![preview](/assets/screenshot/preview.png)
+![preview](/game/assets/screenshot/preview.png)
 
 ## Contribution :
 Interested people can contribute to developing the game 🙌
