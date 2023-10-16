@@ -1,4 +1,4 @@
-# Ashta-Chamma 
+# XO-XO
 
 ## Description: 
 An Indian version of the popular game Ludo. 
