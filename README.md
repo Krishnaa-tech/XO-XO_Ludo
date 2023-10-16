@@ -54,4 +54,4 @@ Pull requests are welcome. For significant changes, please open an issue first t
 
 _**Team Members:**_ 
 &emsp; &emsp; [Krish Goyal](https://github.com/Krishnaa-tech) 
-&emsp; &emsp; [Harshita](https://github.com/harshi1gfiesg)
+&emsp; &emsp; [Harshitha](https://github.com/harshi1gfiesg)
